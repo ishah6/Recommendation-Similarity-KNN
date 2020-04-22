@@ -1,2 +1,2 @@
 # Recommendation-Engine
-User-based recommendation engine
+User-based recommendation engine using Python
